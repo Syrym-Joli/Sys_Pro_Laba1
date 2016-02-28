@@ -1,0 +1,6 @@
+c:\users\sharpe\documents\visual studio 2015\Projects\SP-laba1\SP-laba1\bin\Debug\SP-laba1.exe.config
+c:\users\sharpe\documents\visual studio 2015\Projects\SP-laba1\SP-laba1\bin\Debug\SP-laba1.exe
+c:\users\sharpe\documents\visual studio 2015\Projects\SP-laba1\SP-laba1\bin\Debug\SP-laba1.pdb
+c:\users\sharpe\documents\visual studio 2015\Projects\SP-laba1\SP-laba1\obj\Debug\SP-laba1.csprojResolveAssemblyReference.cache
+c:\users\sharpe\documents\visual studio 2015\Projects\SP-laba1\SP-laba1\obj\Debug\SP-laba1.exe
+c:\users\sharpe\documents\visual studio 2015\Projects\SP-laba1\SP-laba1\obj\Debug\SP-laba1.pdb
